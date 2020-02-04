@@ -12,6 +12,8 @@
   <a href="https://yarapolana.com"><img src="https://img.shields.io/badge/createdby-yarapolana-red.svg" ></a>
 </p>
 
+<img src="https://res.cloudinary.com/yarapolana/image/upload/v1580842964/desafio-7-rocketshoes/home-mobile_xnap8p.jpg" >
+
 <h2>🚀Description </h2>
 <p id="description">
   Build a React Native project from scratch and implement flux architecture using <a href="https://github.com/reduxjs/redux"> Redux</a>, <a href="https://github.com/redux-saga/redux-saga">Redux-Saga</a>, and debug with <a href="https://github.com/infinitered/reactotron-react-native">Reactotron-react-native</a>.
