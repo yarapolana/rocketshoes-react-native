@@ -9,7 +9,7 @@ export const Container = styled.View`
 `;
 
 export const CartContainer = styled.View`
-  max-width: ${width};
+  max-width: ${width}px;
   background: #fff;
   padding: 20px 10px 10px;
   margin: 20px;
@@ -41,7 +41,7 @@ export const CartButtonText = styled.Text`
 `;
 
 export const CartTotal = styled.Text`
-  font-size: 16;
+  font-size: 16px;
   font-weight: bold;
   color: #999;
   align-items: center;
@@ -49,7 +49,7 @@ export const CartTotal = styled.Text`
 `;
 
 export const CartTotalPrice = styled.Text`
-  font-size: 30;
+  font-size: 30px;
   font-weight: bold;
   letter-spacing: -1.6px;
   padding-bottom: 30px;

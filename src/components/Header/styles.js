@@ -9,16 +9,20 @@ export const Container = styled.View`
 export const LogoButton = styled.TouchableOpacity``;
 export const Logo = styled.Image``;
 
-export const Badge = styled.Text`
+export const Badge = styled.View`
   background: #eb524c;
+  border-radius: 8px;
   width: 14px;
   height: 14px;
-  border-radius: 8px;
   position: absolute;
   top: -6px;
   right: -6px;
   justify-content: center;
-  font-size: 10;
+  text-align: center;
+`;
+
+export const BadgeText = styled.Text`
+  font-size: 10px;
   color: white;
   text-align: center;
 `;

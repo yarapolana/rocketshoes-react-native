@@ -59,6 +59,6 @@ export const ButtonIcon = styled.View`
 
 export const ButtonCounter = styled.Text`
   color: #fff;
-  font-size: 12;
+  font-size: 12px;
   padding-left: 5px;
 `;
